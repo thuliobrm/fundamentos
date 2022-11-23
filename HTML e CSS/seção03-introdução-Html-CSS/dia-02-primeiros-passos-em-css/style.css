@@ -1,0 +1,11 @@
+h1 {
+    font-size: 65px;
+    color: orange;
+}
+#lista-nao-ordenada li{
+    background-color: blanchedalmond;
+}
+.alterando-background{
+    background-color: aquamarine;
+}
+

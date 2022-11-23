@@ -1,0 +1,8 @@
+h1, p {
+    text-align: center;
+}
+li:hover {
+    color: rgb(40, 182, 63);
+    background-color: rgb(192, 108, 164);  
+    list-style: none;
+}
